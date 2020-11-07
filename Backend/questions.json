@@ -1,0 +1,12 @@
+{ "questions":[ 
+    {
+      "key": "Do you like React?",
+      "options": [
+        {
+          "key1": "Yes",
+          "key2": "No"
+        }
+      ]
+    }
+  ]
+}
